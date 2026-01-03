@@ -1,9 +1,18 @@
-# Nimai
+# Hi, I'm Nimai 👋
 
-Backend Software Developer focused on building reliable, infrastructure-aware systems.
+**Backend Software Developer** focused on building reliable, infrastructure-aware systems. 
+I value clear design, predictable behavior, and operational simplicity.
 
-I primarily work with Golang, Java, and Python on backend services, data systems, and distributed applications. I value clear design, predictable behavior, and operational simplicity.
+---
 
-## Profiles
-- X : https://twitter.com/nimxch
-- Blogs : https://dev.to/nimxch 
+### 🛠 Tech Stack
+- **Languages:** Go, Java (Spring), Python
+- **Cloud & Infra:** AWS, Docker, Kubernetes, Terraform
+- **Data & Messaging:** PostgreSQL, Redis, Apache Kafka, gRPC
+
+### ✍️ Latest from my Blog
+- [How to structure Go services for scale]
+- [Why I prefer Boring Technology]
+
+### 📫 Connect with me
+[Twitter/X](https://twitter.com/nimxch) | [Dev.to](https://dev.to/nimxch) | [LinkedIn](Your-Link-Here)
