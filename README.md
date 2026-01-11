@@ -6,7 +6,7 @@ I value clear design, predictable behavior, and operational simplicity.
 ---
 
 ### 🛠 Tech Stack
-- **Languages:** Go, Java (Spring), Python
+- **Languages:** Go, Java (Spring Boot), Python(django)
 - **Cloud & Infra:** AWS, Docker, Kubernetes, Terraform
 - **Data & Messaging:** PostgreSQL, Redis, Apache Kafka, gRPC
 
