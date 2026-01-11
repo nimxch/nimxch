@@ -15,4 +15,4 @@ I value clear design, predictable behavior, and operational simplicity.
 - [Why I prefer Boring Technology]
 
 ### 📫 Connect with me
-[Twitter/X](https://twitter.com/nimxch) | [Dev.to](https://dev.to/nimxch) | [LinkedIn]([Your-Link-Here](https://www.linkedin.com/in/nimai-charan/))
+[Twitter/X](https://twitter.com/nimxch) | [Dev.to](https://dev.to/nimxch) | [LinkedIn](https://www.linkedin.com/in/nimai-charan/)
