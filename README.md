@@ -7,8 +7,9 @@ I value clear design, predictable behavior, and operational simplicity.
 
 ### 🛠 Tech Stack
 - **Languages:** Go, Java (Spring Boot), Python(django)
-- **Cloud & Infra:** AWS, Docker, Kubernetes, Terraform
-- **Data & Messaging:** PostgreSQL, Redis, Apache Kafka, gRPC
+- **Cloud & Infra:** AWS, Docker, Nix
+- **Data & Messaging:** PostgreSQL, Redis, RabbitMQ
+- **IoT Protocols:** BACNet, MODBUS, SNMP, MQTT
 
 ### ✍️ Latest from my Blog
 - [HTTP ETag : I got sold by this 90s tech](https://dev.to/nimxch/http-etag-i-got-sold-by-this-90s-tech-59c9)
